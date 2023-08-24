@@ -9,3 +9,7 @@ print("I am " + name)
 ```output
 I am KBS
 ```
+#### To do List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
